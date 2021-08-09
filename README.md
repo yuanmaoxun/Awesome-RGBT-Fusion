@@ -2,7 +2,8 @@
 This repository collects RGB-T-Feature-Fusion methods (deep learning methods mainly), codes, and datasets.
 The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking, RGB-IR Person Re-identification .etc.  
 (Under continuous update...)  
-## Contents
+## Contents  
+
 1. [Multispectral Pedestrian](#Multispectral Pedestrian)
 2. [RGB-T Salient Object Detection](#RGB-T Salient Object Detection)
 3. [RGB-IR Person Re-identification](#RGB-IR Person Re-identification)

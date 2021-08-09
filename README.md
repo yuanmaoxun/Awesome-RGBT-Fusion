@@ -4,12 +4,12 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 (Under continuous update...)  
 ## Contents  
 
-1. [Multispectral Pedestrian](#Multispectral Pedestrian)
-2. [RGB-T Salient Object Detection](#RGB-T Salient Object Detection)
-3. [RGB-IR Person Re-identification](#RGB-IR Person Re-identification)
-4. [RGB-T Fusion Tracking](#RGB-T Fusion Tracking)
+1. [Multispectral Pedestrian](#Multispectral-Pedestrian)
+2. [RGB-T Salient Object Detection](#RGB-T-Salient-Object-Detection)
+3. [RGB-IR Person Re-identification](#RGB-IR-Person-Re-identification)
+4. [RGB-T Fusion Tracking](#RGB-T-Fusion-Tracking)
 
-# Multispectral Pedestrian
+# Multispectral-Pedestrian
 ## Datasets and Annotations
 [KAIST dataset](https://soonminhwang.github.io/rgbt-ped-detection/), [CVC-14 dataset](http://adas.cvc.uab.es/elektra/enigma-portfolio/cvc-14-visible-fir-day-night-pedestrian-sequence-dataset/)
 , [FLIR dataset](https://www.flir.cn/oem/adas/adas-dataset-form/)
@@ -56,8 +56,8 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 [[Code](https://github.com/Huaqing-lucky/unsupervised_multispectral_pedestrian_detection)]
 1. Learning crossmodal deep representations for robust pedestrian detection, CVPR 2017, D. Xu et al.[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Learning_Cross-Modal_Deep_CVPR_2017_paper.pdf)][[Code](https://github.com/danxuhk/CMT-CNN)]
 
-# RGB-T Salient Object Detection
+# RGB-T-Salient-Object-Detection
 
-# RGB-IR Person Re-identification
+# RGB-IR-Person-Re-identification
 
-# RGB-T Fusion Tracking
+# RGB-T-Fusion-Tracking

@@ -56,8 +56,8 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 [[Code](https://github.com/Huaqing-lucky/unsupervised_multispectral_pedestrian_detection)]
 1. Learning crossmodal deep representations for robust pedestrian detection, CVPR 2017, D. Xu et al.[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Learning_Cross-Modal_Deep_CVPR_2017_paper.pdf)][[Code](https://github.com/danxuhk/CMT-CNN)]
 
-# RGB-T-Salient-Object-Detection
+# RGB-T Salient Object Detection
 
-# RGB-IR-Person-Re-identification
+# RGB-IR Person Re-identification
 
-# RGB-T-Fusion-Tracking
+# RGB-T Fusion Tracking

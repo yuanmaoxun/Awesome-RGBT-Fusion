@@ -47,7 +47,7 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 1. Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation, BMVC 2018, Chengyang Li et al.
 [[PDF](https://arxiv.org/abs/1808.04818)]
 [[Code](https://github.com/Li-Chengyang/MSDS-RCNN)]
-[[Project Link](https://li-chengyang.github.io/home/MSDS-RCNN/)]
+
 ### Unsupervised Domain
 1. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, CVPR 2019, Dayan Guan et al.
 [[PDF](https://arxiv.org/abs/1904.03692)]

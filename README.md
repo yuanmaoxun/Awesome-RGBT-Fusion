@@ -60,6 +60,6 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 
 # RGB-T Salient Object Detection
 
-# RGB-IR Person Re-identification
-
 # RGB-T Fusion Tracking
+
+# RGB-IR Person Re-identification

@@ -1,7 +1,7 @@
-# Awesome-RGBT-Feature-Fusion
+# Awesome-RGB-T-Feature-Fusion
 This repository collects RGB-T-Feature-Fusion methods (deep learning methods mainly), codes, and datasets.
 The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking, RGB-IR Person Re-identification .etc.  
-(If you think this is useful, please consider giving a star, thanks!We will continue to update this repository)  
+(If you think this is useful, please consider giving a star, thanks! We will continue to update this repository)  
 ## Contents  
 
 1. [Multispectral Pedestrian](#Multispectral-Pedestrian)

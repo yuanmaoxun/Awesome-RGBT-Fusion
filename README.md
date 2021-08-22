@@ -51,7 +51,7 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 [[Code](https://github.com/Li-Chengyang/MSDS-RCNN)]
 
 ### Unsupervised Domain
-1. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, CVPR 2019, Dayan Guan et al.
+1. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, CVPR 2019 Workshop , Dayan Guan et al.
 [[PDF](https://arxiv.org/abs/1904.03692)]
 [[Code](https://github.com/dayanguan/unsupervised_multispectral_pedestrian_detectio)]
 1. Pedestrian detection with unsupervised multispectral feature learning using deep neural networks, Information Fusion 2019, Y. Cao et al. Information Fusion 2019, [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253517305948)]

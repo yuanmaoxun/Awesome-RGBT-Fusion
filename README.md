@@ -42,7 +42,7 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 1. Fusion of Multispectral Data Through Illumination-aware Deep Neural Networks for Pedestrian Detection, Information Fusion 2019, Dayan Guan et al.[[PDF](https://arxiv.org/abs/1802.09972)][[Code](https://github.com/dayanguan/illumination-aware_multispectral_pedestrian_detection/)]
 1. Illumination-aware Faster R-CNN for Robust Multispectral Pedestrian Detection, Pattern Recognition 2018, Chengyang Li et al.[[PDF](https://arxiv.org/pdf/1802.09972.pdf)][[Code](https://github.com/Li-Chengyang/IAF-RCNN)]
 
-### Feature Mismatch
+### Feature Align
 1. Weakly Aligned Cross-Modal Learning for Multispectral Pedestrian Detection, ICCV 2019, Lu Zhang et al.
 [[PDF](https://arxiv.org/abs/1901.02645)]
 [[Code](https://github.com/luzhang16/AR-CNN)]

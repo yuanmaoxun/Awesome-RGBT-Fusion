@@ -50,6 +50,8 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 [[PDF](https://arxiv.org/abs/1808.04818)]
 [[Code](https://github.com/Li-Chengyang/MSDS-RCNN)]
 
+1. Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems, ECCV 2020, Kailai Zhou et al. [[PDF](https://arxiv.org/pdf/2008.03043.pdf)][[Code](https://github.com/CalayZhou/MBNet)]
+
 ### Unsupervised Domain Adaptation
 1. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, CVPR 2019 Workshop , Dayan Guan et al.
 [[PDF](https://arxiv.org/abs/1904.03692)]
@@ -57,6 +59,10 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 1. Pedestrian detection with unsupervised multispectral feature learning using deep neural networks, Information Fusion 2019, Y. Cao et al. Information Fusion 2019, [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253517305948)]
 [[Code](https://github.com/Huaqing-lucky/unsupervised_multispectral_pedestrian_detection)]
 1. Learning crossmodal deep representations for robust pedestrian detection, CVPR 2017, D. Xu et al.[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Learning_Cross-Modal_Deep_CVPR_2017_paper.pdf)][[Code](https://github.com/danxuhk/CMT-CNN)]
+
+
+# RGB-IR Person Re-identification
+
 
 # RGB-T Salient Object Detection
 ## Datasets
@@ -68,4 +74,3 @@ VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-
 1. Deep Domain Adaptation Based Multi-spectral Salient Object Detection, TMM 2020, Shaoyue Song et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)]
 # RGB-T Fusion Tracking
 
-# RGB-IR Person Re-identification

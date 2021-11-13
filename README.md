@@ -64,17 +64,18 @@ The main directions involved are Multispectral Pedestrian, RGB-T Fusion Tracking
 ## Datasets
 VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf)][[link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)], VT1000 Dataset [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)][[link](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view)], VT5000 Dataset [[PDF](https://arxiv.org/pdf/2007.03262.pdf)][[link]( https://pan.baidu.com/s/1ksuUr3cr6_-fZAsSUp0n0w)[9yqv]]
 ## papers
-### Unsupervised Domain Adaptation
+### Domain Adaptation
 1. Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation, AAAI 2020, Shaoyue Song et al.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6879)]
-
-1. Deep Domain Adaptation Based Multi-spectral Salient Object Detection, TMM 2020, Shaoyue Song et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)]
+2. Deep Domain Adaptation Based Multi-spectral Salient Object Detection, TMM 2020, Shaoyue Song et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)]
 
 # RGB-T Crowd Counting
 ## Datasets
 RGBT-CC[[link](http://lingboliu.com/RGBT_Crowd_Counting.html)], DroneCrowd [[link](https://github.com/VisDrone/DroneCrowd)]
 ## papers
+### Domain Adaptation
+1. RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network[[PDF](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)][[Code](https://github.com/VisDrone/DroneRGBT)]
+### Fusion Architecture
 1. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting[[PDF](https://arxiv.org/pdf/2012.04529.pdf)][[Code](https://github.com/chen-judge/RGBTCrowdCounting)]
-2. RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network[[PDF](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)][[Code](https://github.com/VisDrone/DroneRGBT)]
 # RGB-IR Person Re-identification
 
 # RGB-T Fusion Tracking

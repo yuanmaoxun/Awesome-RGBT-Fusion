@@ -92,7 +92,8 @@ RGBT-CC[[link](http://lingboliu.com/RGBT_Crowd_Counting.html)], DroneCrowd [[lin
 ## Datasets
 DroneVehicle[[link](https://github.com/VisDrone/DroneVehicle)]
 ## papers
-Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning, IEEE Transactions on Circuits and Systems for Video Technology, Yiming Sun [[PDF](https://ieeexplore.ieee.org/abstract/document/9759286)]
+1. Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning, IEEE Transactions on Circuits and Systems for Video Technology, Yiming Sun [[PDF](https://ieeexplore.ieee.org/abstract/document/9759286)]
+2. Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy, Remote Sensing, Qingwang Wang et al. [[PDF](https://www.mdpi.com/2072-4292/14/9/2020)]
 # RGB-IR Person Re-identification
 
 # RGB-T Fusion Tracking

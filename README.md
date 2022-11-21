@@ -92,9 +92,10 @@ DroneVehicle[[link](https://github.com/VisDrone/DroneVehicle)], Multispectral Da
 RGBT-CC[[link](http://lingboliu.com/RGBT_Crowd_Counting.html)], DroneCrowd [[link](https://github.com/VisDrone/DroneCrowd)]
 ## papers
 ### Domain Adaptation
-1. RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network[[PDF](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)][[Code](https://github.com/VisDrone/DroneRGBT)]
+1. RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network, ACCV2020, Tao Peng et al. [[PDF](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)][[Code](https://github.com/VisDrone/DroneRGBT)]
 ### Fusion Architecture
-1. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting [[PDF](https://arxiv.org/pdf/2012.04529.pdf)][[Code](https://github.com/chen-judge/RGBTCrowdCounting)]
+1. MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting, arxiv2022, Pengyu Chen et al. [[PDF](https://arxiv.org/pdf/2208.06761.pdf)]
+2. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting, CVPR2021, Lingbo Liu et al. [[PDF](https://arxiv.org/pdf/2012.04529.pdf)][[Code](https://github.com/chen-judge/RGBTCrowdCounting)]
 
 # RGB-T Salient Object Detection
 ## Datasets
@@ -104,8 +105,10 @@ VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-
 1. Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation, AAAI 2020, Shaoyue Song et al.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6879)]
 2. Deep Domain Adaptation Based Multi-spectral Salient Object Detection, TMM 2020, Shaoyue Song et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)]
 
+# RGB-T Fusion Tracking
+
 
 # RGB-IR Person Re-identification
 
-# RGB-T Fusion Tracking
+
 

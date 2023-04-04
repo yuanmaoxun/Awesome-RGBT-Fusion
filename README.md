@@ -1,6 +1,6 @@
 # Awesome RGB-T Feature Fusion
 This repository collects RGB-T-Feature-Fusion methods (deep learning methods mainly), codes, and datasets.
-The main directions involved are Multispectral Pedestrian, RGB-T Vehicle Detection, RGB-T Crowd Counting, RGB-IR Person Re-identification .etc.  
+The main directions involved are Multispectral Pedestrian, RGB-T Vehicle Detection, RGB-T Crowd Counting, RGB-T Fusion Tracking.etc.  
 (If you think this is useful, please consider giving a star, thanks! We will continue to update this repository)  
 ## Contents  
 
@@ -8,8 +8,7 @@ The main directions involved are Multispectral Pedestrian, RGB-T Vehicle Detecti
 2. [RGB-T Vehicle Detection](#RGB-T-Vehicle-Detection)
 3. [RGB-T Crowd Counting](#RGB-T-Crowd-Counting)
 4. [RGB-T Salient Object Detection](#RGB-T-Salient-Object-Detection)
-5. [RGB-IR Person Re-identification](#RGB-IR-Person-Re-identification)
-6. [RGB-T Fusion Tracking](#RGB-T-Fusion-Tracking)
+5. [RGB-T Fusion Tracking](#RGB-T-Fusion-Tracking)
 
 # Multispectral-Pedestrian
 ## Datasets and Annotations
@@ -25,7 +24,7 @@ The main directions involved are Multispectral Pedestrian, RGB-T Vehicle Detecti
 ### Fusion Architecture
 1. DetFusion: A Detection-driven Infrared and Visible Image Fusion Network, ACM Multimedia 2022, Yiming Sun et al. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3503161.3547902)]
 2. Multimodal Object Detection via Probabilistic Ensembling, ECCV2022, Yi-Ting Chen et al. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690139.pdf)]
-2. Learning a Dynamic Cross-Modal Network for Multispectral Pedestrian Detection, MM 2022, Jin Xie et al. [[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3547895)]
+2. Learning a Dynamic Cross-Modal Network for Multispectral Pedestrian Detection, ACM Multimedia 2022, Jin Xie et al. [[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3547895)]
 3. Confidence-aware Fusion using Dempster-Shafer Theory for Multispectral Pedestrian Detection, TMM 2022, Qing Li et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9739079)]
 2. Improving RGB-Infrared Pedestrian Detection by Reducing Cross-Modality Redundancy, ICIP2022, Qingwang Wang et al.  [[PDF](https://www.mdpi.com/2072-4292/14/9/2020)]
 3. Spatio-contextual deep network-based multimodal pedestrian detection for autonomous driving, IEEE Transactions on Intelligent Transportation Systems, Kinjal Dasgupta et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9706418)]
@@ -109,8 +108,6 @@ VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-
 
 # RGB-T Fusion Tracking
 
-
-# RGB-IR Person Re-identification
 
 
 

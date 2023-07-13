@@ -54,7 +54,7 @@ Feel free to star and fork! We will continue to update this repository!
 30. Multispectral Pedestrian Detection Benchmark Dataset and Baseline, 2015, Soonmin Hwang et al.[[PDF](https://soonminhwang.github.io/rgbt-ped-detection/misc/CVPR15_Pedestrian_Benchmark.pdf)][[Code](https://github.com/SoonminHwang/rgbt-ped-detection)]
 
 ### Illumination Aware
-1. IGT: Illumination-guided RGB-T object detection with transformers, Knowledge-Based Systems, Keyu Chen et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705123001739)]
+1. IGT: Illumination-guided RGB-T object detection with transformers, Knowledge-Based Systems 2023, Keyu Chen et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705123001739)]
 2. Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV 2020, My Kieu et al. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf)][[Code](https://github.com/mrkieumy/task-conditioned)]
 3. Fusion of Multispectral Data Through Illumination-aware Deep Neural Networks for Pedestrian Detection, Information Fusion 2019, Dayan Guan et al.[[PDF](https://arxiv.org/abs/1802.09972)][[Code](https://github.com/dayanguan/illumination-aware_multispectral_pedestrian_detection/)]
 4. Illumination-aware Faster R-CNN for Robust Multispectral Pedestrian Detection, Pattern Recognition 2018, Chengyang Li et al.[[PDF](https://arxiv.org/pdf/1802.09972.pdf)][[Code](https://github.com/Li-Chengyang/IAF-RCNN)]
@@ -88,7 +88,7 @@ Feel free to star and fork! We will continue to update this repository!
 
 # RGB-T Vehicle Detection
 ## Datasets
-DroneVehicle[[link](https://github.com/VisDrone/DroneVehicle)], Multispectral Datasets for Detection and Segmentation[[link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)]
+DroneVehicle (partially aligned)[[link](https://github.com/VisDrone/DroneVehicle)], Multispectral Datasets for Detection and Segmentation [[link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)], VEDAI (strictly aligned)[[link](https://downloads.greyc.fr/vedai/)]
 ## papers
 1. LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection, TNNLS 2023, Haolong Fu et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10144688)]
 2. GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime, Remote Sensing 2022, Peng Gao et al. [[PDF](https://www.mdpi.com/2072-4292/14/12/2771)]

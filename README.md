@@ -88,7 +88,11 @@ Feel free to star and fork! We will continue to update this repository!
 
 # RGB-T Vehicle Detection
 ## Datasets
-DroneVehicle (partially aligned)[[link](https://github.com/VisDrone/DroneVehicle)], Multispectral Datasets for Detection and Segmentation [[link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)], VEDAI (strictly aligned)[[link](https://downloads.greyc.fr/vedai/)]
+DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle)]
+
+VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]
+
+Multispectral Datasets for Detection and Segmentation: with Segmentation annotation  [[link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)]
 ## papers
 1. LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection, TNNLS 2023, Haolong Fu et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10144688)]
 2. GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime, Remote Sensing 2022, Peng Gao et al. [[PDF](https://www.mdpi.com/2072-4292/14/12/2771)]

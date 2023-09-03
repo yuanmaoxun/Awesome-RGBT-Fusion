@@ -1,16 +1,16 @@
-# Awesome RGB-T Feature Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A collection of RGB-T-Feature-Fusion methods (deep learning methods mainly), codes, and datasets.  
+# Awesome RGB-T Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A collection of RGB-T-Fusion methods (deep learning methods mainly), codes, and datasets.  
 The main directions involved are Multispectral Pedestrian, RGB-T Vehicle Detection, RGB-T Crowd Counting, RGB-T Fusion Tracking.  
 Feel free to star and fork! We will continue to update this repository!  
 ## Contents  
 
-1. [Multispectral Pedestrian](#Multispectral-Pedestrian)
+1. [Multispectral Pedestrian Detection](#Multispectral-Pedestrian-Detection)
 2. [RGB-T Vehicle Detection](#RGB-T-Vehicle-Detection)
 3. [RGB-T Crowd Counting](#RGB-T-Crowd-Counting)
 4. [RGB-T Salient Object Detection](#RGB-T-Salient-Object-Detection)
 5. [RGB-T Fusion Tracking](#RGB-T-Fusion-Tracking)
 
-# Multispectral-Pedestrian
+# Multispectral Pedestrian Detection
 ## Datasets and Annotations
 [KAIST dataset](https://soonminhwang.github.io/rgbt-ped-detection/), [CVC-14 dataset](http://adas.cvc.uab.es/elektra/enigma-portfolio/cvc-14-visible-fir-day-night-pedestrian-sequence-dataset/)
 , [FLIR dataset](https://www.flir.cn/oem/adas/adas-dataset-form/), [LLVIP dataset](https://bupt-ai-cz.github.io/LLVIP/), [M<sup>3</sup>FD dataset](https://github.com/dlut-dimt/TarDAL)
@@ -121,8 +121,12 @@ VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-
 1. Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation, AAAI 2020, Shaoyue Song et al.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6879)]
 2. Deep Domain Adaptation Based Multi-spectral Salient Object Detection, TMM 2020, Shaoyue Song et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)]
 ### Fusion Architecture
-Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection, TIP 2021, Wu, Zhengtao et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)]
+1. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection, TIP 2021, Wu, Zhengtao et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)]
+
 # RGB-T Fusion Tracking
+## Datasets
+GTOT [[PDF](https://ieeexplore.ieee.org/document/7577747)][[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)], RGBT234 Dataset [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302808)][[link](https://sites.google.com/view/ahutracking001/)], LasHeR Dataset [[PDF](https://arxiv.org/abs/2104.13202)][[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
 ## papers
 1. Visual Prompt Multi-Modal Tracking, CVPR 2023, Jiawen Zhu et al. [[PDF](https://arxiv.org/abs/2303.10826)][[Code](https://github.com/jiawen-zhu/ViPT)]
-2. Prompting for Multi-Modal Tracking, ACM Multimedia 2022, Jinyu Yang et al. [[PDF](https://arxiv.org/abs/2207.14571)]
+2. Attribute-Based Progressive Fusion Network for RGBT Tracking, Xiao Yun et al. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20187/19946)][[Code](https://github.com/yangmengmeng1997/APFNet)]
+3. Prompting for Multi-Modal Tracking, ACM Multimedia 2022, Jinyu Yang et al. [[PDF](https://arxiv.org/abs/2207.14571)]

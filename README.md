@@ -4,7 +4,7 @@ The main directions involved are Multispectral Pedestrian Detection, RGB-T Vehic
 Feel free to star and fork! keep updating....🚀
 
 --------------------------------------------------------------------------------------
-## Some News:
+## Some News: 👀
 
 💎 **2024.03.13 Add one our paper and one CVPR paper.** <br>
 

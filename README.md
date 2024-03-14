@@ -1,9 +1,8 @@
-# Awesome RGB-T Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![-RGBT-red](https://user-images.githubusercontent.com/38373305/205479612-e61d11b4-6c3e-4eb0-8d19-2e7170eb7783.svg)
+# Awesome RGB-T Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![-RGBT-red](https://user-images.githubusercontent.com/38373305/205479612-e61d11b4-6c3e-4eb0-8d19-2e7170eb7783.svg)
 A collection of deep learning based RGB-T-Fusion methods, codes, and datasets.  
 The main directions involved are Multispectral Pedestrian Detection, RGB-T Vehicle Detection, RGB-T Crowd Counting, RGB-T Fusion Tracking.  
-Feel free to star and fork! keep updating....🚀
+Feel free to star and fork! Keep updating....🚀
 
---------------------------------------------------------------------------------------
 ## Some News: 👀
 
 💎 **2024.03.13 Add one our paper and one CVPR paper.** <br>

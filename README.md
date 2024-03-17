@@ -1,9 +1,11 @@
 # Awesome RGB-T Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![-RGBT-red](https://user-images.githubusercontent.com/38373305/205479612-e61d11b4-6c3e-4eb0-8d19-2e7170eb7783.svg)
 A collection of deep learning based RGB-T-Fusion methods, codes, and datasets.  
-The main directions involved are Multispectral Pedestrian Detection, RGB-T Vehicle Detection, RGB-T Crowd Counting, RGB-T Fusion Tracking.  
+The main directions involved are Multispectral Pedestrian Detection, RGB-T Vehicle Detection, RGB-T Semantic Segmentation, RGB-T Crowd Counting, RGB-T Fusion Tracking.  
 Feel free to star and fork! Keep updating....🚀
 
 ## Some News: 🆕
+
+👀 **2024.03.17 Add one CVPR paper.** <br>
 
 💎 **2024.03.15 Add new content about RGB-T Semantic segmentation.** <br>
 
@@ -103,13 +105,14 @@ Feel free to star and fork! Keep updating....🚀
 4. Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV 2020, My Kieu et al. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf)][[Code](https://github.com/mrkieumy/task-conditioned)]
 4. Deep Cross-modal Representation Learning and Distillation for Illumination-invariant Pedestrian Detection, IEEE Transactions on Circuits and Systems for Video Technology 2021, T. Liu et al. [[PDF](https://ieeexplore.ieee.org/document/9357413/)]
 
-### Unsupervised Domain Adaptation
-1. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, CVPR 2019 Workshop , Dayan Guan et al.
+### Domain Adaptation
+1. D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection, CVPR 2024, Dinh Phat Do et al., [[PDF](https://arxiv.org/pdf/2403.09359.pdf)][[Code](https://github.com/EdwardDo69/D3T)]
+2. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, CVPR 2019 Workshop , Dayan Guan et al.
 [[PDF](https://arxiv.org/abs/1904.03692)]
 [[Code](https://github.com/dayanguan/unsupervised_multispectral_pedestrian_detectio)]
-2. Pedestrian detection with unsupervised multispectral feature learning using deep neural networks, Information Fusion 2019, Y. Cao et al. Information Fusion 2019, [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253517305948)]
+1. Pedestrian detection with unsupervised multispectral feature learning using deep neural networks, Information Fusion 2019, Y. Cao et al. Information Fusion 2019, [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253517305948)]
 [[Code](https://github.com/Huaqing-lucky/unsupervised_multispectral_pedestrian_detection)]
-3. Learning crossmodal deep representations for robust pedestrian detection, CVPR 2017, D. Xu et al.[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Learning_Cross-Modal_Deep_CVPR_2017_paper.pdf)][[Code](https://github.com/danxuhk/CMT-CNN)]
+1. Learning crossmodal deep representations for robust pedestrian detection, CVPR 2017, D. Xu et al.[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Learning_Cross-Modal_Deep_CVPR_2017_paper.pdf)][[Code](https://github.com/danxuhk/CMT-CNN)]
 
 --------------------------------------------------------------------------------------
 

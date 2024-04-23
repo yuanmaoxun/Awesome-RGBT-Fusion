@@ -5,7 +5,7 @@ Feel free to star and fork! Keep updating....🚀
 
 ## Some News: 🆕
 
-💎 **2024.03.15 Add more papers about RGB-T Salient Object Detection.** <br>
+💎 **2024.04.23 Add more papers about RGB-T Salient Object Detection.** <br>
 
 👀 **2024.03.17 Add one CVPR paper.** <br>
 

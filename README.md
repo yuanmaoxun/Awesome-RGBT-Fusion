@@ -5,6 +5,8 @@ Feel free to star and fork! Keep updating....🚀
 
 ## Some News: 🆕
 
+💎 **2024.03.15 Add more papers about RGB-T Salient Object Detection.** <br>
+
 👀 **2024.03.17 Add one CVPR paper.** <br>
 
 💎 **2024.03.15 Add new content about RGB-T Semantic segmentation.** <br>
@@ -34,7 +36,7 @@ Feel free to star and fork! Keep updating....🚀
 ## Papers
 ### Fusion Architecture
 
-1. Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al. [[PDF](https://arxiv.org/pdf/2403.01300.pdf)]
+1. Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al. [[PDF](https://arxiv.org/pdf/2403.01300.pdf)][[Code](https://github.com/ssbin0914/Causal-Mode-Multiplexer)]
 2. Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion, arxiv 2024, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2401.10731)][[Code]( https://github.com/Zhao-Tian-yi/RSDet.git)][[知乎](https://zhuanlan.zhihu.com/p/679289837)]
 3. ICAFusion: Iterative cross-attention guided feature fusion for multispectral object detection, Pattern Recognition 2024, Shen Jifeng et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006118)][[Code](https://github.com/chanchanchan97/ICAFusion)]
 4. Improving RGB-infrared object detection with cascade alignment-guided transformer, Information Fusion 2024, Maoxun Yuan et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253524000241)]
@@ -85,7 +87,7 @@ Feel free to star and fork! Keep updating....🚀
 5. Illumination-aware Faster R-CNN for Robust Multispectral Pedestrian Detection, Pattern Recognition 2018, Chengyang Li et al.[[PDF](https://arxiv.org/pdf/1802.09972.pdf)][[Code](https://github.com/Li-Chengyang/IAF-RCNN)]
 
 ### Feature Alignment
-1. C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection, TGRS 2024, Maoxun Yuan et al. [[PDF](https://arxiv.org/abs/2306.16175)][[Code](https://github.com/yuanmaoxun/C2Former)]
+1. C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection, TGRS 2024, Maoxun Yuan et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10472947)][[Code](https://github.com/yuanmaoxun/C2Former)]
 2. Cross-Modality Proposal-guided Feature Mining for Unregistered RGB-Thermal Pedestrian Detection, TMM 2024, Chao Tian et al. [[PDF](https://ieeexplore.ieee.org/document/10382506)]
 3. Attentive Alignment Network for Multispectral Pedestrian Detection, ACM MM 2023, Nuo Chen et al. [[PDF](https://dl.acm.org/doi/10.1145/3581783.3613444)]
 4. Towards Versatile Pedestrian Detector with Multisensory-Matching and Multispectral Recalling Memory, AAAI2022, Jung Uk Kim et al. [[PDF](https://www.aaai.org/AAAI22Papers/AAAI-8768.KimJ.pdf)]
@@ -125,7 +127,7 @@ DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle
 VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]
 
 ## Papers
-1. C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection, TGRS 2024, Maoxun Yuan et al. [[PDF](https://arxiv.org/abs/2306.16175)][[Code](https://github.com/yuanmaoxun/C2Former)]
+1. C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection, TGRS 2024, Maoxun Yuan et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10472947)][[Code](https://github.com/yuanmaoxun/C2Former)]
 2. ICAFusion: Iterative cross-attention guided feature fusion for multispectral object detection, Pattern Recognition 2024, Shen Jifeng et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10225383)][[Code](https://github.com/chanchanchan97/ICAFusion)]
 3. Improving RGB-infrared object detection with cascade alignment-guided transformer, Information Fusion 2024, Maoxun Yuan et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253524000241)]
 4. Multispectral Object Detection via Cross-Modal Conflict-Aware Learning, ACM MM 2023, Xiao He et al. [[PDF](https://dl.acm.org/doi/10.1145/3581783.3612651)][[Code](https://github.com/hexiao-cs/CALNet-Dronevehicle)]
@@ -140,43 +142,109 @@ VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]
 
 # RGB-T-Semantic-segmentation
 ## Datasets
-[Utokyo dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [PST900 dataset](https://github.com/ShreyasSkandanS/pst900_thermal_rgb), [SemanticRT dataset](https://github.com/jiwei0921/SemanticRT)
+[MFNet dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [PST900 dataset](https://github.com/ShreyasSkandanS/pst900_thermal_rgb), [SemanticRT dataset](https://github.com/jiwei0921/SemanticRT)
 ## Papers
 1. Context-Aware Interaction Network for RGB-T Semantic Segmentation, TMM 2024, Ying Lv et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10379106)][[Code](https://github.com/YingLv1106/CAINet)]
-2. Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation, PR 2023, Wei Wu et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320322003624)]
-3. MMSMCNet: Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation, TCSVT 2023, Wujie Zhou et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10123009)][[Code](https://github.com/2021nihao/MMSMCNet)]
-4. SGFNet: Semantic-Guided Fusion Network for RGB-Thermal Semantic Segmentation, TCSVT 2023, Yike Wang et al., [[PDF](https://ieeexplore.ieee.org/document/10138593)][[Code](https://github.com/kw717/SGFNet)]
-5. DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles, TCYB 2023, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10217340)]
-6. Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks, RAL 2023, Mingjian Liang et al., [[PDF](https://ieeexplore.ieee.org/document/10113725)][[Code](https://github.com/freeformrobotics/eaefnet)]
-7. Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing, TITS 2023, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/10041960)]
-8. UTFNet: Uncertainty-Guided Trustworthy Fusion Network for RGB-Thermal Semantic Segmentation, GRSL 2023, Qingwang Wang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10273407)][[Code](https://github.com/KustTeamWQW/UTFNet)]
-9. Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning, arxiv 2023, Shaohua Dong et al., [[PDF](https://arxiv.org/pdf/2312.00360.pdf)][[Code](https://github.com/shaohuadong2021/dplnet?tab=readme-ov-file)]
-10. Edge-aware guidance fusion network for RGB–thermal scene parsing, AAAI 2022, Wujie Zhou et al., [[PDF](https://arxiv.org/abs/2112.05144)][[Code](https://github.com/ShaohuaDong2021/EGFNet)]
-11. CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers, TITS 2022, Jiaming Zhang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10231003)][[Code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
-12. RGB-T Semantic Segmentation with Location, Activation, and Sharpening, TCSVT 2022, Gongyang Li et al., [[PDF](https://ieeexplore.ieee.org/document/9749834)][[Code](https://github.com/ShaohuaDong2021/MTANet)]
-13. A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation, TCSVT 2022, Shenlu Zhao et al., [[PDF](https://ieeexplore.ieee.org/document/9987529)]
-14. MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding, TIV 2022, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/9900351)][[Code](https://github.com/MathLee/LASNet)]
-15. ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation, CVPR 2021, Qiang Zhang et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf)]
-16. GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation, TIP 2021, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/9531449)][[Code](https://github.com/Jinfu0913/GMNet)]
-17. MFFENet: Multiscale Feature Fusion and Enhancement Network for RGBThermal Urban Road Scene Parsing, TMM 2021, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/9447924)]
-18. FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation, IROS 2021, Fuqin Deng et al., [[PDF](https://arxiv.org/pdf/2110.08988.pdf)][[Code](https://github.com/matrixgame2018/FEANet)]
-19. HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images, IROS 2021, Johan Vertens et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9341192)]
-20. PST900: RGB-Thermal Calibration, Dataset and Segmentation Network, ICRA 2020, Shreyas S. Shivakumar et al., [[PDF](https://ieeexplore.ieee.org/document/9196831)][[Code](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)]
-21. RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes, RAL 2019, Yuxiang Sun et al., [[PDF](https://ieeexplore.ieee.org/document/8666745)][[Code](https://github.com/yuxiangsun/RTFNet)]
-22. MFNet: Towards Real-Time Semantic Segmentation for Autonomous Vehicles with Multi-Spectral Scenes, IROS 2019, Qishen Ha et al., [[PDF](https://ieeexplore.ieee.org/document/8206396)][[Code](https://github.com/haqishen/MFNet-pytorch)]
+2. CACFNet: Cross-Modal Attention Cascaded Fusion Network for RGB-T Urban Scene Parsing, TIV 2023, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10251592)]
+3. On Exploring Shape and Semantic Enhancements for RGB-X Semantic Segmentation, TIV 2023, Yuanjian Yang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10185113)][[Code](https://github.com/HenonBamboo/SASEM)]
+4. Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation, PR 2023, Wei Wu et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320322003624)]
+5. MMSMCNet: Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation, TCSVT 2023, Wujie Zhou et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10123009)][[Code](https://github.com/2021nihao/MMSMCNet)]
+6. SGFNet: Semantic-Guided Fusion Network for RGB-Thermal Semantic Segmentation, TCSVT 2023, Yike Wang et al., [[PDF](https://ieeexplore.ieee.org/document/10138593)][[Code](https://github.com/kw717/SGFNet)]
+7. DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles, TCYB 2023, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10217340)]
+8. Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks, RAL 2023, Mingjian Liang et al., [[PDF](https://ieeexplore.ieee.org/document/10113725)][[Code](https://github.com/freeformrobotics/eaefnet)]
+9. Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing, TITS 2023, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/10041960)]
+10. UTFNet: Uncertainty-Guided Trustworthy Fusion Network for RGB-Thermal Semantic Segmentation, GRSL 2023, Qingwang Wang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10273407)][[Code](https://github.com/KustTeamWQW/UTFNet)]
+11. Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning, arxiv 2023, Shaohua Dong et al., [[PDF](https://arxiv.org/pdf/2312.00360.pdf)][[Code](https://github.com/shaohuadong2021/dplnet?tab=readme-ov-file)]
+12. A RGB-Thermal Image Segmentation Method Based on Parameter Sharing and Attention Fusion for Safe Autonomous Driving, TITS 2023, Guofa Li et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10337777)]
+13. SFAF-MA: Spatial Feature Aggregation and Fusion With Modality Adaptation for RGB-Thermal Semantic Segmentation, TIM 2023, Xunjie He et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10103760)][[Code](https://github.com/hexunjie/SFAF-MA)]
+14. Edge-aware guidance fusion network for RGB–thermal scene parsing, AAAI 2022, Wujie Zhou et al., [[PDF](https://arxiv.org/abs/2112.05144)][[Code](https://github.com/ShaohuaDong2021/EGFNet)]
+15. CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers, TITS 2022, Jiaming Zhang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10231003)][[Code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
+16. RGB-T Semantic Segmentation with Location, Activation, and Sharpening, TCSVT 2022, Gongyang Li et al., [[PDF](https://ieeexplore.ieee.org/document/9749834)][[Code](https://github.com/MathLee/LASNet)]
+17. A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation, TCSVT 2022, Shenlu Zhao et al., [[PDF](https://ieeexplore.ieee.org/document/9987529)]
+18. CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module, Neurocomputing 2022, [[PDF](https://www.sciencedirect.com/science/article/pii/S0925231221017331)]
+19. CGFNet: cross-guided fusion network for RGB-thermal semantic segmentation, The Visual Computer 2022, Yanping Fu et al., [[PDF](https://link.springer.com/article/10.1007/s00371-022-02559-2)]
+20. MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding, TIV 2022, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/9900351)][[Code](https://github.com/ShaohuaDong2021/MTANet)]
+21. GCNet: Grid-Like Context-Aware Network for RGB-Thermal Semantic Segmentation, Neurocomputing 2022, Jinfu Liu et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0925231222009006)]
+22. ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation, CVPR 2021, Qiang Zhang et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf)]
+23. GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation, TIP 2021, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/9531449)][[Code](https://github.com/Jinfu0913/GMNet)]
+24. MFFENet: Multiscale Feature Fusion and Enhancement Network for RGBThermal Urban Road Scene Parsing, TMM 2021, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/9447924)]
+25. FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation, IROS 2021, Fuqin Deng et al., [[PDF](https://arxiv.org/pdf/2110.08988.pdf)][[Code](https://github.com/matrixgame2018/FEANet)]
+26. HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images, IROS 2021, Johan Vertens et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9341192)]
+27. Robust semantic segmentation based on RGB-thermal in variable lighting scenes, Measurement 2021, Zhifeng Guo et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0263224121010903)]
+28. FuseSeg: Semantic segmentation of urban scenes based on RGB and thermal data fusion, TASE 2020, Yuxiang Sun et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9108585/)]
+29. PST900: RGB-Thermal Calibration, Dataset and Segmentation Network, ICRA 2020, Shreyas S. Shivakumar et al., [[PDF](https://ieeexplore.ieee.org/document/9196831)][[Code](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)]
+30. RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes, RAL 2019, Yuxiang Sun et al., [[PDF](https://ieeexplore.ieee.org/document/8666745)][[Code](https://github.com/yuxiangsun/RTFNet)]
+31. MFNet: Towards Real-Time Semantic Segmentation for Autonomous Vehicles with Multi-Spectral Scenes, IROS 2019, Qishen Ha et al., [[PDF](https://ieeexplore.ieee.org/document/8206396)][[Code](https://github.com/haqishen/MFNet-pytorch)]
 
 
 --------------------------------------------------------------------------------------
 
 # RGB-T Salient Object Detection
 ## Datasets
-VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf)][[link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)], VT1000 Dataset [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)][[link](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view)], VT5000 Dataset [[PDF](https://arxiv.org/pdf/2007.03262.pdf)][[link]( https://pan.baidu.com/s/1ksuUr3cr6_-fZAsSUp0n0w)[9yqv]]
+VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf)][[link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)], VT1000 Dataset [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)][[link](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view)], VT5000 Dataset [[PDF](https://arxiv.org/pdf/2007.03262.pdf)][[link]( https://pan.baidu.com/s/1ksuUr3cr6_-fZAsSUp0n0w)[9yqv]], VI-RGBT1500 Dataset[[PDF](https://ieeexplore.ieee.org/document/10003255)][[link](https://github.com/huanglm-me/VI-RGBT1500?tab=readme-ov-file)]
 ## Papers
-### Domain Adaptation
-1. Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation, AAAI 2020, Shaoyue Song et al.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6879)]
-2. Deep Domain Adaptation Based Multi-spectral Salient Object Detection, TMM 2020, Shaoyue Song et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)]
-### Fusion Architecture
-1. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection, TIP 2021, Wu, Zhengtao et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)]
+1. VST++: Efficient and Stronger Visual Saliency Transformer, TPAMI 2024, Nian Liu et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10497889)][[Code](https://github.com/nnizhang/VST)]
+2. UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection, TMM 2024, Ruohao Guo et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10444934)]
+3. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection, TCSVT 2024, Kunpeng Wang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10464332)]
+4. TMNet: Triple-modal interaction encoder and multi-scale fusion decoder network for V-D-T salient object detection, PR 2024, Bin Wan et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320323007719)]
+5. Weighted Guided Optional Fusion Network for RGB-T Salient Object Detection, TOMM 2024, Jie Wang et al.,  [[PDF](https://dl.acm.org/doi/abs/10.1145/3624984)][[Code](https://github.com/WJ-CV/WGOFNet)]
+6. Position-Aware Relation Learning for RGB-Thermal Salient Object Detection, TIP 2023, Heng Zhou et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10113883)]
+7. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection, TIP 2023, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10127616)][[Code](https://github.com/nowander/WaveNet)]
+8. LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images, TIP 2023, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/10042233)][[Code](https://github.com/zyrant/LSNet)]
+9. CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection, TIP 2023, Youwei Pang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10015667)][[Code](https://github.com/lartpang/caver)]
+10. Glass Segmentation With RGB-Thermal Image Pairs, TIP 2023, Dong Huo et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10076416)][[Code](https://github.com/Dong-Huo/RGB-T-Glass-Segmentation)]
+11. MFFNet: Multi-modal Feature Fusion Network for V-D-T Salient Object Detection, TMM 2023, Bin Wan et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10171982)]
+12. LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor, TCSVT 2023, Zhengyi Liu et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10138590)][[Code](https://github.com/liuzywen/LFTransNet)]
+13. Multiple Graph Affinity Interactive Network and a Variable Illumination Dataset for RGBT Image Salient Object Detection, TCSVT 2023, Kechen Song et al., [[PDF](https://ieeexplore.ieee.org/document/10003255)][[Code](https://github.com/huanglm-me/VI-RGBT1500)]
+14. Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection, TCSVT 2023, Zhengxuan Xie et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10032588)]
+15. DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles, TCYB 2023, [[PDF](https://ieeexplore.ieee.org/abstract/document/10217340)]
+16. Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection, PR 2023, Heng Zhou et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320323007409)]
+17. Cross-modal co-feedback cellular automata for RGB-T saliency detection, PR 2023, Yu Pang et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320322006185)]
+18. An interactively reinforced paradigm for joint infrared-visible image fusion and saliency object detection, Information Fusion 2023, Di Wang et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523001446)][[Code](https://github.com/wdhudiekou/IRFS.)] 
+19. Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection, EAAI 2023, Han Wang et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0952197622006303)][[Code](https://github.com/VDT-2048/TAGFNet)]
+20. Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks, RAL 2023, Mingjian Liang et al., [[PDF](https://ieeexplore.ieee.org/document/10113725)][[Code](https://github.com/freeformrobotics/eaefnet)]
+21. MENet: Lightweight multimodality enhancement network for detecting salient objects in RGB-thermal images, Neurocomputing 2023, Junyi Wu et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0925231223000358)]
+22. Feature aggregation with transformer for RGB-T salient object detection, Neurocomputing 2023, Ping Zhang et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0925231223004526)][[Code](https://github.com/ELOESZHANG/FANet)] 
+23. Texture-Guided Saliency Distilling for Unsupervised Salient Object Detection, CVPR2023， Huajun Zhou et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Texture-Guided_Saliency_Distilling_for_Unsupervised_Salient_Object_Detection_CVPR_2023_paper.pdf)][[Code](www.github.com/moothes/A2S-v2)]
+24. Saliency Prototype for RGB-D and RGB-T Salient Object Detection, ACM MM 2023, Zihao Zhang et al., [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3612466)][[Code](https://github.com/ZZ2490/SPNet)]
+25. ADNet: An Asymmetric Dual-Stream Network for RGB-T Salient Object Detection, ACM MM 2023, Yaqun Fang et al., [[PDF](https://dl.acm.org/doi/abs/10.1145/3595916.3626440)]
+26. Scribble-Supervised RGB-T Salient Object Detection, ICME 2023, Zhengyi Liu et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10219673)][[Code](https://github.com/liuzywen/RGBTScribble-ICME2023)]
+27. Feature Enhancement and Fusion for RGB-T Salient Object Detection, ICIP 2023, Fengming Sun et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10222404)]
+28. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network, TIP 2022, Zhengzheng Tu et al.,  [[PDF](https://ieeexplore.ieee.org/abstract/document/9779787)][[Code](https://github.com/lz118/Deep-Correlation-Network)]
+29. Cross-modal co-feedback cellular automata for RGB-T saliency detection, PR 2022, Yu Pang et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320322006185)]
+30. RGBT Salient Object Detection: A Large-Scale Dataset and Benchmark, TMM 2022, Zhengzheng Tu et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9767629)]
+31. Does Thermal really always matter for RGB-T salient object detection, TMM 2022, Runmin Cong et al., [[PDF](https://ieeexplore.ieee.org/document/9926193)][[Code](https://github.com/rmcong/TNet_TMM2022)]
+32. TCNet: Co-Salient Object Detection via Parallel Interaction of Transformers and CNNs, TCSVT 2023, Yanliang Ge et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9968016)][[Code](https://github.com/zhangqiao970914/TCNet)]
+33. Modality-Induced Transfer-Fusion Network for RGB-D and RGB-T Salient Object Detection, TCSVT 2022, Gang Chen et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9925217)]
+34. Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection, TCSVT 2022, Guibiao Liao et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9801871)][[Code](https://git.openi.org.cn/OpenVision/CCFENet)]
+35. CGMDRNet: Cross-Guided Modality Difference Reduction Network for RGB-T Salient Object Detection, TCSVT 2022, Gang Chen et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9756028)]
+36. RGB-T Semantic Segmentation With Location, Activation, and Sharpening, TCSVT 2022, Gongyang Li et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9900351)][[Code](https://github.com/MathLee/LASNet)]
+37. HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection, TCSVT 2022, Bin Tang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9869666)][[Code](https://github.com/liuzywen/HRTransNet)]
+38. Asymmetric cross-modal activation network for RGB-T salient object detection, KBS 2022, Chang Xu et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705122011406)][[Code]( www.github.com/xanxuso/ACMANet)]
+39. Three-stream interaction decoder network for RGB-thermal salient object detection, KBS 2022, Fushuo Huo et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705122011005)][[Code](https://github.com/huofushuo/TIDNet)]
+40. Real-time One-stream Semantic-guided Refinement Network for RGB-Thermal Salient Object Detection, TIM 2022, Fushuo Huo et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9803225)][[Code](https://github.com/huofushuo/OSRNet)]
+41. Multi-modal Interactive Attention and Dual Progressive Decoding Network for RGB-D/T Salient Object Detection, Neurocomputing 2022, Yanhua Liang et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S0925231222002971)][[Code](https://github.com/Liangyh18/MIA_DPD)]
+42. PSNet: Parallel symmetric network for RGB-T salient object detection, Neurocomputing 2022, Hongbo Bi et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S0925231222011559)]
+43. Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection, arxiv 2022, [[PDF](https://arxiv.org/abs/2207.03558)][[Code](https://github.com/jxr326/SwinMCNet)]
+44. Bimodal Information Fusion Network for Salient Object Detection based on Transformer, PRML 2022, Zhuo Wang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9882262)]
+45. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection, TIP 2021, Zhengzheng Tu et al., [[PDF](https://ieeexplore.ieee.org/document/9454273)][[Code](https://github.com/lz118/Multi-interactive-Dual-decoder)]
+46. ECFFNet: Effective and Consistent Feature Fusion Network for RGB-T Salient Object Detection, TCSVT 2021, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/document/9420662)]
+47. SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection, TCSVT 2021, [[PDF](https://ieeexplore.ieee.org/document/9611276)][[Code](https://github.com/liuzywen/SwinNet)]
+48. Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection, TCSVT 2021, Wei Gao et al., [[PDF](https://ieeexplore.ieee.org/document/9439490)]
+49. Multi-graph Fusion and Learning for RGBT Image Saliency Detection, TCSVT 2021, Liming Huang et al., [[PDF](https://ieeexplore.ieee.org/document/9389777)]
+50. CGFNet: Cross-Guided Fusion Network for RGB-T Salient Object Detection, TCSVT 2021, Jie Wang et al., [[PDF](https://ieeexplore.ieee.org/document/9493207)][[Code](https://github.com/wangjie0825/CGFNet.git)]
+51. Efficient Context-Guided Stacked Refinement Network for RGB-T Salient Object Detection, TCSVT 2021, Fushuo Huo et al., [[PDF](https://ieeexplore.ieee.org/document/9505635)][[Code](https://github.com/huofushuo/CSRNet)]
+52. RGB-T Salient Object Detection via Fusing Multi-Level CNN Features, TIP 2020, Qiang Zhang et al., [[PDF](https://ieeexplore.ieee.org/document/8935533)][[Code](https://github.com/nexiakele/RGB-T-Salient-Object-Detection-via-Fusing-Multi-level-CNN-Features)]
+53. Revisiting Feature Fusion for RGB-T Salient Object Detection, TCSCT 2020, Qiang Zhang et al., [[PDF](https://ieeexplore.ieee.org/document/9161021)][[Code](https://github.com/nexiakele/Revisiting-Feature-Fusion-for-RGB-T-Salient-Object-Detection)]
+54. Deep Domain Adaptation Based Multi-Spectral Salient Object Detection, TMM 2020, Shaoyue Song et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/9308922)]
+55. Abiotic Stress Prediction from RGB-T Images of Banana Plantlets, ECCV 2020, Sagi Levanon et al., [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-65414-6_20)]
+56. Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation, AAAI 2020, Shaoyue Song et al.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6879)]
+57. Deep Domain Adaptation Based Multi-spectral Salient Object Detection, TMM 2020, Shaoyue Song et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)]
+58. RGB-T Image Saliency Detection via Collaborative Graph Learning, TMM 2019, Zhengzheng Tu et al., [[PDF](https://ieeexplore.ieee.org/document/8744296)][[Code](https://github.com/lz118/RGBT-Salient-Object-Detection)]
+59. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach, TCSVT 2019, Jin Tang et al., [[PDF](https://ieeexplore.ieee.org/document/8891733)][[Code](https://github.com/lz118/RGBT-Salient-Object-Detection)]
+60. M3S-NIR: Multi-Modal Multi-Scale Noise-Insensitive Ranking for RGB-T Saliency Detection, MIPR 2019, Zhengzheng Tu et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/8695412)][[Code](https://github.com/lz118/RGBT-Salient-Object-Detection)]
+61. RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and a Novel Approach, IGTA 2018, Guizhao Wang et al., [[PDF](https://link.springer.com/chapter/10.1007/978-981-13-1702-6_36)][[Code](https://github.com/lz118/RGBT-Salient-Object-Detection)]
+62. Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection, ISCID 2017, Yunpeng Ma et al., [[PDF](https://ieeexplore.ieee.org/document/8275796)]
 
 --------------------------------------------------------------------------------------
 

@@ -4,7 +4,7 @@ The main directions involved are Multispectral Pedestrian Detection, RGB-T Aeria
 Feel free to star and fork! Keep updating....🚀
 
 ## Some News: 🆕
-👀 **2024.10.31 Add one our paper in Pixel-level Fusion for Detection.** <br>
+💎 **2024.10.31 Add one our paper in Pixel-level Fusion for Detection.** <br>
 
 👀 **2024.10.19 Add one dataset in Multispectral Pedestrian Detection.** <br>
 

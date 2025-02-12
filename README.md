@@ -97,7 +97,7 @@ Feel free to star and fork! Keep updating....🚀
 7. DetFusion: A Detection-driven Infrared and Visible Image Fusion Network, ACM Multimedia 2022, Yiming Sun et al. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3503161.3547902)][[Code](https://github.com/SunYM2020/DetFusion)]
 
 ### Illumination Aware
-1. EI<sup>2<sup>Det: Edge-Guided Illumination-Aware Interactive Learning for Visible-Infrared Object Detection, Ke Hu et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877920)] [[Code](https://github.com/hukefy/EI2Det)]
+1. EI<sup>2</sup>Det: Edge-Guided Illumination-Aware Interactive Learning for Visible-Infrared Object Detection, Ke Hu et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877920)] [[Code](https://github.com/hukefy/EI2Det)]
 2. RGB-X Object Detection via Scene-Specific Fusion Modules, WACV 2024, Sri Aditya Deevi et al. [[PDF](https://arxiv.org/abs/2310.19372)] [[Code](https://github.com/dsriaditya999/RGBXFusion)]
 3. Illumination-Guided RGBT Object Detection With Inter- and Intra-Modality Fusion, IEEE Transactions on Instrumentation and Measurement 2023, Yan Zhang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10057437/)][[Code](https://github.com/NNNNerd/Triple-I-Net-TINet)]
 4. IGT: Illumination-guided RGB-T object detection with transformers, Knowledge-Based Systems 2023, Keyu Chen et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705123001739)]

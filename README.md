@@ -1,10 +1,13 @@
 # Awesome RGB-T Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![-RGBT-red](https://user-images.githubusercontent.com/38373305/205479612-e61d11b4-6c3e-4eb0-8d19-2e7170eb7783.svg)
 A collection of deep learning based RGB-T-Fusion methods, codes, and datasets.  
 The main directions involved are Multispectral Pedestrian Detection, RGB-T Aerial Object Detection, RGB-T Semantic Segmentation, RGB-T Crowd Counting, RGB-T Fusion Tracking.  
-Feel free to star and fork! Keep updating....🚀
+
+Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
 
 ## Some News: 🆕
-👀 **2025.02.12 Add one dataset in Multispectral Pedestrian Detection.** <br>
+💎 **2025.02.17 Add one dataset-SMOD and some papers in Multispectral Pedestrian Detection.** <br>
+
+👀 **2025.02.12 Add one dataset-MFAD in Multispectral Pedestrian Detection.** <br>
 
 👀 **2024.12.23 Add one TPAMI paper in RGB-T Salient Object Detection.** <br>
 
@@ -37,7 +40,7 @@ Feel free to star and fork! Keep updating....🚀
 --------------------------------------------------------------------------------------
 # Multispectral Pedestrian Detection
 ## Datasets and Annotations
-[KAIST dataset](https://soonminhwang.github.io/rgbt-ped-detection/), [CVC-14 dataset](http://adas.cvc.uab.es/elektra/enigma-portfolio/cvc-14-visible-fir-day-night-pedestrian-sequence-dataset/), [FLIR dataset](https://www.flir.cn/oem/adas/adas-dataset-form/), [FLIR-aligned dataset](https://github.com/zonaqiu/FLIR-align), [Utokyo](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [LLVIP dataset](https://bupt-ai-cz.github.io/LLVIP/), [M<sup>3</sup>FD dataset](https://github.com/dlut-dimt/TarDAL), [MMPD-Dataset](https://github.com/jin-s13/MMPD-Dataset), [MFAD dataset](https://github.com/hukefy/EI2Det).
+[KAIST dataset](https://soonminhwang.github.io/rgbt-ped-detection/), [CVC-14 dataset](http://adas.cvc.uab.es/elektra/enigma-portfolio/cvc-14-visible-fir-day-night-pedestrian-sequence-dataset/), [FLIR dataset](https://www.flir.cn/oem/adas/adas-dataset-form/), [FLIR-aligned dataset](https://github.com/zonaqiu/FLIR-align), [Utokyo](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [LLVIP dataset](https://bupt-ai-cz.github.io/LLVIP/), [M<sup>3</sup>FD dataset](https://github.com/dlut-dimt/TarDAL), [MMPD-Dataset](https://github.com/jin-s13/MMPD-Dataset),[SMOD dataset](https://www.kaggle.com/datasets/zizhaochen6/sjtu-multispectral-object-detection-smod-dataset), [MFAD dataset](https://github.com/hukefy/EI2Det).
 - Improved KAIST Testing Annotations provided by Liu et al.[download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
 - Sanitized KAIST Training Annotations provided by Li et al.[download](https://github.com/Li-Chengyang/MSDS-RCNN) 
 - Improved KAIST Training Annotations provided by Zhang et al.[download](https://github.com/luzhang16/AR-CNN) 
@@ -107,6 +110,7 @@ Feel free to star and fork! Keep updating....🚀
 8. Illumination-aware Faster R-CNN for Robust Multispectral Pedestrian Detection, Pattern Recognition 2018, Chengyang Li et al.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320318303030)][[Code](https://github.com/Li-Chengyang/IAF-RCNN)]
 
 ### Feature Alignment
+1.  CF-Deformable DETR: An End-to-End Alignment-Free Model for Weakly Aligned Visible-Infrared Object Detection,  IJCAI 2024, Haolong Fu et al. [[PDF](https://www.ijcai.org/proceedings/2024/0084.pdf)][[Code](https://github.com/116508/CF-Deformable-DETR)]
 1. C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection, TGRS 2024, Maoxun Yuan et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10472947)][[Code](https://github.com/yuanmaoxun/C2Former)]
 2. Cross-Modality Proposal-guided Feature Mining for Unregistered RGB-Thermal Pedestrian Detection, TMM 2024, Chao Tian et al. [[PDF](https://ieeexplore.ieee.org/document/10382506)]
 3. Multi-Modal Feature Pyramid Transformer for RGB-Infrared Object Detection, TITS 2023, Yaohui Zhu et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105844)]
@@ -115,7 +119,7 @@ Feel free to star and fork! Keep updating....🚀
 6. Mlpd: Multi-label pedestrian detector in multispectral domain, IEEE Robotics and Automation Letters 2021, Jiwon Kim et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9496129)]
 7. Weakly Aligned Feature Fusion for Multimodal Object Detection, ITNNLS 2021, Lu Zhang et al. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
 8. Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems, ECCV 2020, Kailai Zhou et al. [[PDF](https://arxiv.org/pdf/2008.03043.pdf)][[Code](https://github.com/CalayZhou/MBNet)]
-9. Weakly Aligned Cross-Modal Learning for Multispectral Pedestrian Detection, ICCV 2019, Lu Zhang et al.[[PDF](https://arxiv.org/abs/1901.02645)][[Code](https://github.com/luzhang16/AR-CNN)]
+9.  Weakly Aligned Cross-Modal Learning for Multispectral Pedestrian Detection, ICCV 2019, Lu Zhang et al.[[PDF](https://arxiv.org/abs/1901.02645)][[Code](https://github.com/luzhang16/AR-CNN)]
 10. Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation, BMVC 2018, Chengyang Li et al.[[PDF](https://arxiv.org/abs/1808.04818)][[Code](https://github.com/Li-Chengyang/MSDS-RCNN)]
 
 ### Mono-Modality
@@ -127,10 +131,13 @@ Feel free to star and fork! Keep updating....🚀
 6. Deep Cross-modal Representation Learning and Distillation for Illumination-invariant Pedestrian Detection, IEEE Transactions on Circuits and Systems for Video Technology 2021, T. Liu et al. [[PDF](https://ieeexplore.ieee.org/document/9357413/)]
 
 ### Domain Adaptation
-1. D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection, CVPR 2024, Dinh Phat Do et al., [[PDF](https://arxiv.org/pdf/2403.09359.pdf)][[Code](https://github.com/EdwardDo69/D3T)]
-2. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, CVPR 2019 Workshop , Dayan Guan et al.[[PDF](https://arxiv.org/abs/1904.03692)][[Code](https://github.com/dayanguan/unsupervised_multispectral_pedestrian_detectio)]
-3. Pedestrian detection with unsupervised multispectral feature learning using deep neural networks, Information Fusion 2019, Y. Cao et al. Information Fusion 2019, [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253517305948)][[Code](https://github.com/Huaqing-lucky/unsupervised_multispectral_pedestrian_detection)]
-4. Learning crossmodal deep representations for robust pedestrian detection, CVPR 2017, D. Xu et al.[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Learning_Cross-Modal_Deep_CVPR_2017_paper.pdf)][[Code](https://github.com/danxuhk/CMT-CNN)]
+1. Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge, ECCV 2024, Medeiros, Heitor Rapela et al., [[PDF](https://eccv.ecva.net/virtual/2024/poster/816)][[Code](https://github.com/heitorrapela/ModTr)]
+2. AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection, Arxiv 2024, Zizhao Chen et al., [[PDF](https://arxiv.org/pdf/2405.12944)][[Code](https://github.com/bigD233/AMFD)]
+3. D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection, CVPR 2024, Dinh Phat Do et al., [[PDF](https://arxiv.org/pdf/2403.09359.pdf)][[Code](https://github.com/EdwardDo69/D3T)]
+4. HalluciDet: Hallucinating RGB Modality for Person Detection Through Privileged Information, WACV 2024, Medeiros, Heitor Rapela et al., [[PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Medeiros_HalluciDet_Hallucinating_RGB_Modality_for_Person_Detection_Through_Privileged_Information_WACV_2024_paper.pdf)][[Code](https://github.com/heitorrapela/HalluciDet)]
+5. Unsupervised Domain Adaptation for Multispectral Pedestrian Detection, CVPR 2019 Workshop , Dayan Guan et al.[[PDF](https://arxiv.org/abs/1904.03692)][[Code](https://github.com/dayanguan/unsupervised_multispectral_pedestrian_detectio)]
+6. Pedestrian detection with unsupervised multispectral feature learning using deep neural networks, Information Fusion 2019, Y. Cao et al. Information Fusion 2019, [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253517305948)][[Code](https://github.com/Huaqing-lucky/unsupervised_multispectral_pedestrian_detection)]
+7. Learning crossmodal deep representations for robust pedestrian detection, CVPR 2017, D. Xu et al.[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Learning_Cross-Modal_Deep_CVPR_2017_paper.pdf)][[Code](https://github.com/danxuhk/CMT-CNN)]
 
 --------------------------------------------------------------------------------------
 
@@ -143,28 +150,29 @@ DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle
 VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]
 
 ## Papers
-1.  CCLDet: A Cross-Modality and Cross-Domain Low-Light Detector, Xiping Shang et al., TITS 2025, Xiping Shang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10844996)]
-2. Dual-Dynamic Cross-Modal Interaction Network for Multimodal Remote Sensing Object Detection, TGRS 2025, Wei Bao et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10843244)][[Code](https://github.com/Drew-bw/DDCINet)]
-3. Cross Teaching-Enhanced Multi-spectral Remote Sensing Object Detection with Transformer, TGRS 2024, Jiahe Zhu et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10770223)]
-4. Cross-Modal Oriented Object Detection of UAV Aerial Images Based on Image Feature, TGRS 2024, Huiying Wang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10440361)]
-5. CMDistill: Cross-modal Distillation Framework for UAV Image Object Detection, JSTAR 2024, Xiaozhong Tong et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10715640)]
-6. Multimodal Feature-Guided Pretraining for RGB-T Perception, JSTAR 2024, Junlin Ouyang et al., [[PDF](https://ieeexplore.ieee.org/document/10663834)]
-7. Mask-Guided Mamba Fusion for Drone-based Visible-Infrared Vehicle Detection, TGRS 2024, Simiao Wang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10659747)]
-8. Low-rank Multimodal Remote Sensing Object Detection with Frequency Filtering Experts, TGRS 2024, Xu Sun et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643097)][[Code](https://github.com/cq100/LF-MDet)]
-9. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection, CVPR 2024, Chen Chen et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.pdf)]
-10. Misaligned Visible-Thermal Object Detection: A Drone-based Benchmark and Baseline, TIV 2024, Kechen Song, [[PDF](https://ieeexplore.ieee.org/abstract/document/10522939/authors)][[Code](https://github.com/VDT-2048/DVTOD)]
-11. C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection, TGRS 2024, Maoxun Yuan et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10472947)][[Code](https://github.com/yuanmaoxun/C2Former)]
-12. ICAFusion: Iterative cross-attention guided feature fusion for multispectral object detection, Pattern Recognition 2024, Shen Jifeng et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10225383)][[Code](https://github.com/chanchanchan97/ICAFusion)]
-13. Improving RGB-infrared object detection with cascade alignment-guided transformer, Information Fusion 2024, Maoxun Yuan et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253524000241)]
-14. Multispectral Object Detection via Cross-Modal Conflict-Aware Learning, ACM MM 2023, Xiao He et al. [[PDF](https://dl.acm.org/doi/10.1145/3581783.3612651)][[Code](https://github.com/hexiao-cs/CALNet-Dronevehicle)]
-15. LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection, TNNLS 2023, Haolong Fu et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10144688)]
-16. Modality Balancing Mechanism for RGB-Infrared Object Detection in Aerial Image, PRCV 2023, Weibo Cai er al., [[PDF](https://link.springer.com/chapter/10.1007/978-981-99-8555-5_7)]
-17. RGB-Infrared Multi-Modal Remote Sensing Object Detection Using CNN and Transformer Based Feature Fusion, IGARSS 2023, Tao Tian et al., [[PDF](https://ieeexplore.ieee.org/document/10282173)]
-18. GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime, Remote Sensing 2022, Peng Gao et al. [[PDF](https://www.mdpi.com/2072-4292/14/12/2771)]
-19. Cross-modality attentive feature fusion for object detection in multispectral remote sensing imagery, Pattern Recognition, Qingyun Fang et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320322002679)]
-20. Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection, ECCV 2022, Maoxun Yuan et al. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690501.pdf)]
-21. Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning, TCSVT 2022, Yiming Sun [[PDF](https://ieeexplore.ieee.org/abstract/document/9759286)][[Code](https://github.com/SunYM2020/UA-CMDet)]
-22. Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy, Remote Sensing 2022, Qingwang Wang et al. [[PDF](https://www.mdpi.com/2072-4292/14/9/2020)]
+1.  SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection, Yuxuan Li et al., Arxiv 2025, [[PDF](https://arxiv.org/pdf/2412.20665)][[Code](https://github.com/zcablii/SM3Det)]
+2.  CCLDet: A Cross-Modality and Cross-Domain Low-Light Detector, Xiping Shang et al., TITS 2025, [[PDF](https://ieeexplore.ieee.org/abstract/document/10844996)]
+3. Dual-Dynamic Cross-Modal Interaction Network for Multimodal Remote Sensing Object Detection, TGRS 2025, Wei Bao et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10843244)][[Code](https://github.com/Drew-bw/DDCINet)]
+4. Cross Teaching-Enhanced Multi-spectral Remote Sensing Object Detection with Transformer, TGRS 2024, Jiahe Zhu et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10770223)]
+5. Cross-Modal Oriented Object Detection of UAV Aerial Images Based on Image Feature, TGRS 2024, Huiying Wang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10440361)]
+6. CMDistill: Cross-modal Distillation Framework for UAV Image Object Detection, JSTAR 2024, Xiaozhong Tong et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10715640)]
+7. Multimodal Feature-Guided Pretraining for RGB-T Perception, JSTAR 2024, Junlin Ouyang et al., [[PDF](https://ieeexplore.ieee.org/document/10663834)]
+8. Mask-Guided Mamba Fusion for Drone-based Visible-Infrared Vehicle Detection, TGRS 2024, Simiao Wang et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10659747)]
+9. Low-rank Multimodal Remote Sensing Object Detection with Frequency Filtering Experts, TGRS 2024, Xu Sun et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643097)][[Code](https://github.com/cq100/LF-MDet)]
+10. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection, CVPR 2024, Chen Chen et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.pdf)]
+11. Misaligned Visible-Thermal Object Detection: A Drone-based Benchmark and Baseline, TIV 2024, Kechen Song, [[PDF](https://ieeexplore.ieee.org/abstract/document/10522939/authors)][[Code](https://github.com/VDT-2048/DVTOD)]
+12. C<sup>2</sup>Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection, TGRS 2024, Maoxun Yuan et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10472947)][[Code](https://github.com/yuanmaoxun/C2Former)]
+13. ICAFusion: Iterative cross-attention guided feature fusion for multispectral object detection, Pattern Recognition 2024, Shen Jifeng et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10225383)][[Code](https://github.com/chanchanchan97/ICAFusion)]
+14. Improving RGB-infrared object detection with cascade alignment-guided transformer, Information Fusion 2024, Maoxun Yuan et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253524000241)]
+15. Multispectral Object Detection via Cross-Modal Conflict-Aware Learning, ACM MM 2023, Xiao He et al. [[PDF](https://dl.acm.org/doi/10.1145/3581783.3612651)][[Code](https://github.com/hexiao-cs/CALNet-Dronevehicle)]
+16. LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection, TNNLS 2023, Haolong Fu et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10144688)]
+17. Modality Balancing Mechanism for RGB-Infrared Object Detection in Aerial Image, PRCV 2023, Weibo Cai er al., [[PDF](https://link.springer.com/chapter/10.1007/978-981-99-8555-5_7)]
+18. RGB-Infrared Multi-Modal Remote Sensing Object Detection Using CNN and Transformer Based Feature Fusion, IGARSS 2023, Tao Tian et al., [[PDF](https://ieeexplore.ieee.org/document/10282173)]
+19. GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime, Remote Sensing 2022, Peng Gao et al. [[PDF](https://www.mdpi.com/2072-4292/14/12/2771)]
+20. Cross-modality attentive feature fusion for object detection in multispectral remote sensing imagery, Pattern Recognition, Qingyun Fang et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320322002679)]
+21. Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection, ECCV 2022, Maoxun Yuan et al. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690501.pdf)]
+22. Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning, TCSVT 2022, Yiming Sun [[PDF](https://ieeexplore.ieee.org/abstract/document/9759286)][[Code](https://github.com/SunYM2020/UA-CMDet)]
+23. Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy, Remote Sensing 2022, Qingwang Wang et al. [[PDF](https://www.mdpi.com/2072-4292/14/9/2020)]
 
 --------------------------------------------------------------------------------------
 

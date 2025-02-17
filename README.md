@@ -180,7 +180,7 @@ VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]
 ## Datasets
 [MFNet dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [PST900 dataset](https://github.com/ShreyasSkandanS/pst900_thermal_rgb), [SemanticRT dataset](https://github.com/jiwei0921/SemanticRT), [Caltech Aerial RGBT dataset](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset).
 ## Papers
-1. Knowledge Distillation SegFormer-Based Network  for RGB-T Semantic Segmentation, TCYB 2024, Wujie Zhou et al,. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10817074)][(Code)(https://github.com/purple-ting/KDSNet)]
+1. Knowledge Distillation SegFormer-Based Network  for RGB-T Semantic Segmentation, TCYB 2024, Wujie Zhou et al,. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10817074)][[Code](https://github.com/purple-ting/KDSNet)]
 2. Caltech Aerial RGB-Thermal Dataset in the Wild, ECCV 2024, Connor Lee et al,. [[PDF](extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08026.pdf)][[Code](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)]
 3. Context-Aware Interaction Network for RGB-T Semantic Segmentation, TMM 2024, Ying Lv et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10379106)][[Code](https://github.com/YingLv1106/CAINet)]
 4. CACFNet: Cross-Modal Attention Cascaded Fusion Network for RGB-T Urban Scene Parsing, TIV 2023, Wujie Zhou et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10251592)]

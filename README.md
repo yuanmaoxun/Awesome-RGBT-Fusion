@@ -149,7 +149,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 # RGB-T Aerial Object Detection
 ## Datasets
-TGBT-Tiny: misaligned [[link](https://github.com/XinyiYing/RGBT-Tiny)]
+RGBT-Tiny: misaligned [[link](https://github.com/XinyiYing/RGBT-Tiny)]
 DVTOD: misaligned [[link](https://github.com/VDT-2048/DVTOD)]
 DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle)]
 VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]

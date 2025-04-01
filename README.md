@@ -149,10 +149,10 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 # RGB-T Aerial Object Detection
 ## Datasets
-RGBT-Tiny: misaligned [[link](https://github.com/XinyiYing/RGBT-Tiny)]
-DVTOD: misaligned [[link](https://github.com/VDT-2048/DVTOD)]
-DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle)]
-VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]
+RGBT-Tiny: misaligned [[link](https://github.com/XinyiYing/RGBT-Tiny)],
+DVTOD: misaligned [[link](https://github.com/VDT-2048/DVTOD)],
+DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle)],
+VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)].
 
 ## Papers
 1. Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines, TPAMI 2025, Xinyi Ying et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10914515)][[Code](https://github.com/XinyiYing/RGBT-Tiny)]

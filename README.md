@@ -5,7 +5,7 @@ The main directions involved are Multispectral Pedestrian Detection, RGB-T Aeria
 Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
 
 ## Some News: 🆕
-💎 **2025.07.04 Add two our paper in RGB-T Aerial Object Detection.** <br>
+💎 **2025.07.04 Add one our paper in RGB-T Aerial Object Detection.** <br>
 
 👀 **2025.04.01 Add one dataset in RGB-T-Aerial-Object-Detection (RGBT-Tiny).** <br>
 

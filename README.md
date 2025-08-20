@@ -155,8 +155,8 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 10. Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation, BMVC 2018, Chengyang Li et al.[[PDF](https://arxiv.org/abs/1808.04818)][[Code](https://github.com/Li-Chengyang/MSDS-RCNN)]
 
 ### Mono-Modality
-1. Mixed Patch Visible-Infrared Modality Agnostic Object Detection, WACV 2025, Heitor R. Medeiros et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10943701)][[Code](https://github.com/heitorrapela/MiPa)]
-2. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2503.11780)][[Code](https://github.com/Zhao-Tian-yi/M2D-LIF)]
+1. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2503.11780)][[Code](https://github.com/Zhao-Tian-yi/M2D-LIF)]
+2. Mixed Patch Visible-Infrared Modality Agnostic Object Detection, WACV 2025, Heitor R. Medeiros et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10943701)][[Code](https://github.com/heitorrapela/MiPa)]
 3. TIRDet: Mono-Modality Thermal InfraRed Object Detection Based on Prior Thermal-To-Visible Translation, ACM MM 2023, Zeyu Wang et al. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3581783.3613849)][[Code](https://github.com/zeyuwang-zju/TIRDet)]
 4. Towards Versatile Pedestrian Detector with Multisensory-Matching and Multispectral Recalling Memory, AAAI 2022, Kim et al. [[PDF](https://www.aaai.org/AAAI22Papers/AAAI-8768.KimJ.pdf)]
 5. Robust Thermal Infrared Pedestrian Detection By Associating Visible Pedestrian Knowledge, ICASSP 2022, Sungjune Park et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9746886)]

@@ -4,8 +4,8 @@ The main directions involved are Multispectral Pedestrian Detection, RGB-T Aeria
 
 Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
 
-## Some News: 🆕
-<div style="height: 200px; overflow: auto;">
+<details>
+<summary>Some News: 🆕</summary>
 
 🚀 **2025.08.18 A major update to this repository.** <br>
 
@@ -35,7 +35,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 👀 **2024.03.12 Add one our paper and one CVPR paper.** <br>
 
- </div>
+</details>
 
 ## Contents  
 
